@@ -1,6 +1,5 @@
 Hi there 👋
-I am a Canadian Computer Scientist with 5+ years of experience :}
-
+I am a Canadian Computer Scientist
 ### Languages 
 * Java 
 * Python
