@@ -4,7 +4,7 @@ I am a Canadian Computer Scientist
 * Java 
 * Python
 * JavaScript
-* Lua & roblox-ts
+* Lua
 
 ### Skills 
 * Full-stack Programmer
